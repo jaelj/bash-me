@@ -1,0 +1,27 @@
+		body{
+				padding: 20px;
+				background-color: black;
+				color: white;}
+			h1{
+				font-weight: bold;
+				font-family: sans-serif;
+				font-size: 400%;
+				color: #fa026e;}
+			h2{
+				font-weight: bold;
+				font-family: sans-serif;
+				font-size: 90%;
+				color: #ff78a7;
+				line-height: 0px:}
+			h3, h4, h5{
+				font-weight: bold;
+				font-family: sans-serif;
+				font-size: 150%;
+				color: white;}
+			p1,p2,p3{
+				font-weight: normal;
+				font-family: sans-serif;
+				font-size: 100%
+				color: white;}
+
+		</style>
